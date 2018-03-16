@@ -1,0 +1,2 @@
+class TAuction < ApplicationRecord
+end
